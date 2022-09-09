@@ -11,3 +11,5 @@ dependencies:
   - pyarrow=2.0
   - pip:
       - wandb==0.10.31
+      - protobuf==3.20.1
+      - watchdog==2.0.0
